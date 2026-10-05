@@ -1,0 +1,16 @@
+summary_statistics.csv
+correlation_matrix.csv
+hypothesis_test.txt
+model_summary.txt
+cross_validation.txt
+confusion_matrix.csv
+confusion_matrix.txt
+model_predictions.csv
+
+age_distribution.png
+fare_distribution.png
+survival_by_gender.png
+survival_by_class.png
+correlation_heatmap.png
+confusion_matrix.png
+residual_plot.png
